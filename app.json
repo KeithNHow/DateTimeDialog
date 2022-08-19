@@ -1,0 +1,30 @@
+{
+  "id": "8b741fdc-60dd-4570-8898-7205b0c8f030",
+  "name": "DateTimeDialog",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50500,
+      "to": 50599
+    }
+  ],
+  "features": [ "TranslationFile", "GenerateCaptions" ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
